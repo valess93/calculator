@@ -5,7 +5,6 @@ end
 PI = 3.1415
 
 puts "Calculator"
-puts "PI is " + PI.to_s
 
 a = gets.chomp
 b = gets.chomp
